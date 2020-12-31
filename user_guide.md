@@ -23,7 +23,7 @@ then we can install conda with this command:
 `conda install keras`  
 
 install tensorflow:  
-# Requires the latest pip
+Requires the latest pip
 `pip install --upgrade pip`
 
 Current stable release for CPU and GPU:  
