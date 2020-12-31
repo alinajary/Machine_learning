@@ -1,2 +1,2 @@
-##instal anaconda:
+## instal anaconda:
 
